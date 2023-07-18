@@ -1,0 +1,100 @@
+
+     body{
+	    background-color:black;
+	 }
+	 
+	 #main{
+	   height:660px;
+	   width:500px;
+	   background-color:black;
+	   margin:100px auto;
+	   
+	   
+	 }
+	 
+	 #head{
+	   height:200px;
+	   width:300px;
+	   margin:0px 100px 0px 100px;
+	   background-color:#999790;
+	   border-radius:300px 300px 0px 0px;
+	   box-shadow:5px 5px 5px white;
+	 
+	 }
+	 
+	 .eye{
+	   height:50px;
+	   width:50px;
+	   margin-left:66.6px;
+	   background-color:black;
+	   border-radius:50px;
+	   float:left; 
+	 }
+	 
+	 #mouth{
+	   height:25px;
+	   width:100px;
+	   margin-left:100px;
+	   background-color:black;
+	   border-radius:50px;
+	 }
+	 
+	  #middle{
+	   height:300px;
+	   width:500px;
+	   margin-top:5px;
+	 }
+	 
+	 #hand1{
+	   height:90px;
+	   width:30px;
+	   margin-left:60px;
+	   background-color:#999790;
+	   border-radius:5px;
+	   float:left;
+	   box-shadow:5px 5px 5px white;
+	 }
+	 #hand2{
+	   height:90px;
+	   width:30px;
+	   margin-left:10px;
+	   background-color:#999790;
+	   border-radius:5px;
+	   float:left;
+	   box-shadow:5px 5px 5px white;
+	 }
+	 
+	 #body{
+	   height:300px;
+	   width:300px;
+	   margin-left:10px;
+	   background-color:#999790;
+	   border-radius:5px;
+	   float:left;
+	   box-shadow:5px 5px 5px white;
+	 }
+	 #leg{
+	   height:90px;
+	   width:500px;
+	   border-radius:10px 10px 10px 10px;
+	   
+	 }
+	 #leg1{
+	   height:90px;
+	   width:40px;
+	   margin-left:160px;
+	   background-color:#999790;
+	   float:left;
+	   border-radius:0px 0px 10px 10px;
+	   box-shadow:5px 5px 5px white;
+	 }
+	 #leg2{
+	   height:90px;
+	   width:40px;
+	   margin-left:100px;
+	   background-color:#999790;
+	   float:left;
+	   border-radius:0px 0px 10px 10px;
+	   box-shadow:5px 5px 5px white;
+	 }
+	
